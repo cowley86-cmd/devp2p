@@ -1,4 +1,4 @@
-version: 2.0
+versioning : 2.0
 jobs:
   build:
     docker:

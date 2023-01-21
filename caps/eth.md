@@ -546,5 +546,5 @@ Version numbers below 60 were used during the Ethereum PoC development phase.
 [EIP-2718]: https://eips.ethereum.org/EIPS/eip-2718
 [EIP-2976]: https://eips.ethereum.org/EIPS/eip-2976
 [EIP-4938]: https://eips.ethereum.org/EIPS/eip-4938
-[London hard fork]: https://github.com/ethereum/execution-specs/blob/master/network-upgrades/mainnet-upgrades/london.md
+[London hard fork]: https://github.com/ethereum/execution-specs/blob/master/Network -upgrades/mainnet-upgraded /london.md
 [Yellow Paper]: https://ethereum.github.io/yellowpaper/paper.pdf
